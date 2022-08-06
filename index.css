@@ -1,0 +1,22 @@
+.card {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.card-body,
+.card-title,
+.card-button,
+.card-read-time{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-title {
+    color: #05cbe9;
+    font-size: 1.75rem;
+   
+}
+
+.card-body {
+    font-size: 1rem;
+}
